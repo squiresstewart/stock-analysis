@@ -4,7 +4,7 @@
 
 ## Overview of Project
 
-This project is analysis of 12 stocks with tools to pull specifics of their performace year over year for the years 2017 and 2018.
+This project is an analysis of 12 stocks using macros to pull specifics of their performace year over year for the years 2017 and 2018.
 
 
 ### Purpose
